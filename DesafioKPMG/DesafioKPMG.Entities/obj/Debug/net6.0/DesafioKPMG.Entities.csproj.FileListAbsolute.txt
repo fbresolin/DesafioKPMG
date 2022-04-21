@@ -1,0 +1,12 @@
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\bin\Debug\net6.0\DesafioKPMG.Entities.deps.json
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\bin\Debug\net6.0\DesafioKPMG.Entities.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\bin\Debug\net6.0\ref\DesafioKPMG.Entities.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\bin\Debug\net6.0\DesafioKPMG.Entities.pdb
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\DesafioKPMG.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\DesafioKPMG.Entities.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\DesafioKPMG.Entities.AssemblyInfo.cs
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\DesafioKPMG.Entities.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\DesafioKPMG.Entities.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\ref\DesafioKPMG.Entities.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\DesafioKPMG.Entities.pdb
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.Entities\obj\Debug\net6.0\DesafioKPMG.Entities.csproj.AssemblyReference.cache
