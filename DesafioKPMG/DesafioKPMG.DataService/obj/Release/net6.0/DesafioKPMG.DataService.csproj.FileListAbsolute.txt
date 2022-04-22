@@ -1,0 +1,17 @@
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\bin\Release\net6.0\DesafioKPMG.DataService.deps.json
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\bin\Release\net6.0\DesafioKPMG.DataService.runtimeconfig.json
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\bin\Release\net6.0\DesafioKPMG.DataService.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\bin\Release\net6.0\ref\DesafioKPMG.DataService.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\bin\Release\net6.0\DesafioKPMG.DataService.pdb
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\bin\Release\net6.0\DesafioKPMG.Entities.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\bin\Release\net6.0\DesafioKPMG.Entities.pdb
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.csproj.AssemblyReference.cache
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.AssemblyInfoInputs.cache
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.AssemblyInfo.cs
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.csproj.CoreCompileInputs.cache
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.csproj.CopyComplete
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\ref\DesafioKPMG.DataService.dll
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.pdb
+D:\Users\breso\Documents\KPMG_Desafio\DesafioKPMG\DesafioKPMG.DataService\obj\Release\net6.0\DesafioKPMG.DataService.genruntimeconfig.cache

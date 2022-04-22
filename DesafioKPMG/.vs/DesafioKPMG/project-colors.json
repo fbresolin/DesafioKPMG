@@ -20,7 +20,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "f60c6450-4cf2-490e-bd10-a226e67b437c": {
+      "ProjectGuid": "f60c6450-4cf2-490e-bd10-a226e67b437c",
+      "DisplayName": "DesafioKPMG.Api.Integration.Test",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
