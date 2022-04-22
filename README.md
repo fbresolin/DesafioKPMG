@@ -61,11 +61,13 @@ Alem desses são disponibilizados os seguintes endpoints:
 (GET) "/api/GameResults/GetResult?Id=1" que retorna os dados de um GameResult por Id
 
 (POST) "/api/Players" para cadastrar jogadores usando um JSON no formato
+
 {
   "username": "user"
 }
 
 (GET) "/api/Players/GetPlayer?Id=1" que retorna os dados de um Player por Id
+
 {
   "id": 1,
   "username": "user",
