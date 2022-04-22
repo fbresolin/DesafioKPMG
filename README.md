@@ -1,4 +1,4 @@
-# DesafioKPMG
+# Desafio KPMG
 
 Para este projeto foi utilizado o framework .Net 6 e o ORM Entity Framework Core 6. Ambos são produtos desenvolvidos pela Microsoft e são amplamente utilizados e possuem ótima documentação. Eu considero ambas boas escolhas para o desenvolvimento da aplicações exigida. A escolha do banco de dados Sqlserver, que também é desenvolvida pela Microsoft, também acredito ser uma boa escolha visto ser amplamente documentado e com boa performance.
 
